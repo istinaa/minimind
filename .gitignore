@@ -4,3 +4,10 @@ __pycache__/
 out
 website/
 docs-minimind/
+# ---- 本地训练产物：体积大，不进 git ----
+dataset/*.jsonl
+checkpoints/
+*.pth
+swanlog/
+.idea/
+dataset/._____temp/
