@@ -11,3 +11,5 @@ checkpoints/
 swanlog/
 .idea/
 dataset/._____temp/
+dataset/.msc
+dataset/.mv
